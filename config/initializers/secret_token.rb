@@ -1,0 +1,1 @@
+Todo::Application.config.secret_key_base = 'cab85e7249d21a8f2a02788acaa6122d04dcc699cfd5ae2ac69748ff4ebfde23ea47adce599b25b13e4587131d99132e85d2adcac7522e72e76310dbabea2779'
